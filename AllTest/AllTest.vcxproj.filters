@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="1.MyString">
+      <UniqueIdentifier>{afc6b8e3-53d1-4ccc-abb8-afe7fa145021}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2.SingleTon">
+      <UniqueIdentifier>{d93e9cfb-51b5-483a-86f5-3ea06106cf83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3.FindNumber">
+      <UniqueIdentifier>{e7566ffb-eb00-448b-8b34-4665c7697e65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4.SpaceTo%2520">
+      <UniqueIdentifier>{d5a23cbf-cf0a-46d9-8d6b-8b664ea419f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyString.cpp">
+      <Filter>1.MyString</Filter>
+    </ClCompile>
+    <ClCompile Include="again.cpp">
+      <Filter>1.MyString</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleTon.cpp">
+      <Filter>2.SingleTon</Filter>
+    </ClCompile>
+    <ClCompile Include="FindNumber.cpp">
+      <Filter>3.FindNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceToOther.cpp">
+      <Filter>4.SpaceTo%2520</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Lock.h">
+      <Filter>2.SingleTon</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
