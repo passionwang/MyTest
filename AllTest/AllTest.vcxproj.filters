@@ -16,6 +16,9 @@
     <Filter Include="5.PrintListFromTail">
       <UniqueIdentifier>{8069a430-85a8-4f98-9436-5b37f4be8dae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="6.ReBuildBinaryTree">
+      <UniqueIdentifier>{6b75a212-c943-4a86-99ce-f5f9cd8f7f81}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -35,6 +38,12 @@
     </ClCompile>
     <ClCompile Include="PrintListFromTail.cpp">
       <Filter>5.PrintListFromTail</Filter>
+    </ClCompile>
+    <ClCompile Include="ReBuildBinaryTree.cpp">
+      <Filter>6.ReBuildBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ReBuildBinaryTreeAgain.cpp">
+      <Filter>6.ReBuildBinaryTree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

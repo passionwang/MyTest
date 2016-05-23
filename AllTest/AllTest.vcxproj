@@ -80,6 +80,8 @@
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="PrintListFromTail.cpp" />
+    <ClCompile Include="ReBuildBinaryTree.cpp" />
+    <ClCompile Include="ReBuildBinaryTreeAgain.cpp" />
     <ClCompile Include="SingleTon.cpp" />
     <ClCompile Include="SpaceToOther.cpp" />
   </ItemGroup>
