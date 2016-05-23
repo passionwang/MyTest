@@ -13,6 +13,9 @@
     <Filter Include="4.SpaceTo%2520">
       <UniqueIdentifier>{d5a23cbf-cf0a-46d9-8d6b-8b664ea419f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="5.PrintListFromTail">
+      <UniqueIdentifier>{8069a430-85a8-4f98-9436-5b37f4be8dae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="SpaceToOther.cpp">
       <Filter>4.SpaceTo%2520</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintListFromTail.cpp">
+      <Filter>5.PrintListFromTail</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

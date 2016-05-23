@@ -79,6 +79,7 @@
     <ClCompile Include="again.cpp" />
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="MyString.cpp" />
+    <ClCompile Include="PrintListFromTail.cpp" />
     <ClCompile Include="SingleTon.cpp" />
     <ClCompile Include="SpaceToOther.cpp" />
   </ItemGroup>
