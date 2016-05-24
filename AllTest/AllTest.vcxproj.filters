@@ -22,6 +22,9 @@
     <Filter Include="7.TwoStackToQueue">
       <UniqueIdentifier>{fe6baa41-3974-4017-879d-fd146593f5c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="8.FindMinFromArr">
+      <UniqueIdentifier>{870e153b-a9ef-450b-8f63-5662c2d49edc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -53,6 +56,9 @@
     </ClCompile>
     <ClCompile Include="TwoStackToQueue.cpp">
       <Filter>7.TwoStackToQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="FindMinFromArr.cpp">
+      <Filter>8.FindMinFromArr</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
