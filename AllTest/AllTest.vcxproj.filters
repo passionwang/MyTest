@@ -28,6 +28,9 @@
     <Filter Include="9.Fibonacci">
       <UniqueIdentifier>{cb7a0789-9ebc-41ae-bb52-0b48f1ba3449}</UniqueIdentifier>
     </Filter>
+    <Filter Include="10.CountNumberOf1">
+      <UniqueIdentifier>{36d9ab80-f5ac-4df0-b747-2588b23e282c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -65,6 +68,9 @@
     </ClCompile>
     <ClCompile Include="Fibonacci.cpp">
       <Filter>9.Fibonacci</Filter>
+    </ClCompile>
+    <ClCompile Include="CountNumberOf1.cpp">
+      <Filter>10.CountNumberOf1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
