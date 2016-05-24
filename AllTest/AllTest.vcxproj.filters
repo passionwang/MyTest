@@ -25,6 +25,9 @@
     <Filter Include="8.FindMinFromArr">
       <UniqueIdentifier>{870e153b-a9ef-450b-8f63-5662c2d49edc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="9.Fibonacci">
+      <UniqueIdentifier>{cb7a0789-9ebc-41ae-bb52-0b48f1ba3449}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -59,6 +62,9 @@
     </ClCompile>
     <ClCompile Include="FindMinFromArr.cpp">
       <Filter>8.FindMinFromArr</Filter>
+    </ClCompile>
+    <ClCompile Include="Fibonacci.cpp">
+      <Filter>9.Fibonacci</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

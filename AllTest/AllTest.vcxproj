@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="again.cpp" />
     <ClCompile Include="BinaryTreeNode.cpp" />
+    <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="MyString.cpp" />
