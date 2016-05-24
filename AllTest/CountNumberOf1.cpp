@@ -12,6 +12,18 @@
 //	}
 //	return nCount;
 //}
+//int CountNumberOf2(int num)
+//{
+//	int nCount = 0;
+//	int n = 8*sizeof(num);
+//	for(int i=0;i<n;++i)
+//	{
+//		if(1 == (num & 1))
+//			++nCount;
+//		num = num >> 1;
+//	}
+//	return nCount;
+//}
 //
 //void Test(int number, unsigned int expected)
 //{
@@ -21,7 +33,7 @@
 //    else
 //        printf("Solution1: Test for %p failed.\n", number);
 //
-//    actual = CountNumberOf1(number);
+//    actual = CountNumberOf2(number);
 //    if(actual == expected)
 //        printf("Solution2: Test for %p passed.\n", number);
 //    else
