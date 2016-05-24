@@ -19,6 +19,9 @@
     <Filter Include="6.ReBuildBinaryTree">
       <UniqueIdentifier>{6b75a212-c943-4a86-99ce-f5f9cd8f7f81}</UniqueIdentifier>
     </Filter>
+    <Filter Include="7.TwoStackToQueue">
+      <UniqueIdentifier>{fe6baa41-3974-4017-879d-fd146593f5c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -47,6 +50,9 @@
     </ClCompile>
     <ClCompile Include="BinaryTreeNode.cpp">
       <Filter>6.ReBuildBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoStackToQueue.cpp">
+      <Filter>7.TwoStackToQueue</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
