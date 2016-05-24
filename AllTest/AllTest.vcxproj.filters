@@ -45,6 +45,9 @@
     <ClCompile Include="ReBuildBinaryTreeAgain.cpp">
       <Filter>6.ReBuildBinaryTree</Filter>
     </ClCompile>
+    <ClCompile Include="BinaryTreeNode.cpp">
+      <Filter>6.ReBuildBinaryTree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">

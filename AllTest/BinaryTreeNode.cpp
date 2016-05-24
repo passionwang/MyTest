@@ -1,6 +1,4 @@
 //#include<iostream>
-//
-//
 //using namespace std;
 //
 //struct BinaryTreeNode
@@ -10,13 +8,12 @@
 //	BinaryTreeNode* m_pRight;
 //};
 //
-//BinaryTreeNode* ConstructCore
-//	(int* PreOrderStart,int* PreOrderEnd,
-//	int* InOrderStart,int* InOrderEnd
-//	)
+//BinaryTreeNode* ConstructCore(int* PreOrderStart,int* PreOrderEnd,
+//							  int* InOrderStart,int* InOrderEnd)
 //{
+//	int rootValue = PreOrderStart[0];
 //	BinaryTreeNode* pRoot = new BinaryTreeNode();
-//	pRoot->m_nValue = PreOrderStart[0];
+//	pRoot->m_nValue = rootValue;
 //	pRoot->m_pLeft = NULL;
 //	pRoot->m_pRight = NULL;
 //
@@ -27,36 +24,34 @@
 //		else
 //			throw exception("Invalid Input.");
 //	}
-//	int* rootValue = InOrderStart;
-//	while( rootValue <= InOrderEnd && *rootValue != *PreOrderStart )
-//		++rootValue;
-//	if(rootValue == InOrderEnd && *rootValue != *PreOrderStart)
-//	{
+//
+//	int* pRootValue = InOrderStart;
+//	while(pRootValue<=InOrderEnd && *pRootValue != rootValue)
+//		++pRootValue;
+//	if(pRootValue == InOrderEnd && *pRootValue != rootValue)
 //		throw exception("Invalid Input.");
-//	}
-//	int leftLenght = rootValue - InOrderStart;
+//
+//	int leftLenght = pRootValue - InOrderStart;
 //	int* leftPreEnd = PreOrderStart + leftLenght;
 //	if(leftLenght > 0)
 //	{
 //		pRoot->m_pLeft = ConstructCore(PreOrderStart+1,leftPreEnd,
-//										InOrderStart,rootValue-1);
+//										InOrderStart,pRootValue-1);
 //	}
-//	if(leftLenght<PreOrderEnd - PreOrderStart)
+//	if(leftLenght<InOrderEnd - InOrderStart)
 //	{
 //		pRoot->m_pRight = ConstructCore(leftPreEnd+1,PreOrderEnd,
-//										rootValue+1,InOrderEnd);
+//										pRootValue+1,InOrderEnd);
 //	}
 //	return pRoot;
 //}
-//
 //BinaryTreeNode* Construct(int* PreOrder,int* InOrder,int nLenght)
 //{
-//	if(NULL == PreOrder || NULL == InOrder || nLenght < 1) return NULL;
+//	if(NULL == PreOrder || NULL == InOrder || nLenght<1) return NULL;
 //
 //	return ConstructCore(PreOrder,PreOrder+nLenght-1,
 //						InOrder,InOrder+nLenght-1);
 //}
-//
 //void PrintTreeNode(BinaryTreeNode* pNode)
 //{
 //    if(pNode != NULL)
@@ -80,7 +75,6 @@
 //
 //    printf("\n");
 //}
-//
 //void PrintTree(BinaryTreeNode* pRoot)
 //{
 //    PrintTreeNode(pRoot);
@@ -247,3 +241,11 @@
 //}
 //
 //
+//
+////int main()
+////{
+////
+////
+////	system("pause");
+////	return 0;
+////}
