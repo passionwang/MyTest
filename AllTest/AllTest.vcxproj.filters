@@ -28,6 +28,9 @@
     <Filter Include="9.Fibonacci">
       <UniqueIdentifier>{cb7a0789-9ebc-41ae-bb52-0b48f1ba3449}</UniqueIdentifier>
     </Filter>
+    <Filter Include="11.DoublePower">
+      <UniqueIdentifier>{70e66369-a202-4c0d-b42e-96f932e61443}</UniqueIdentifier>
+    </Filter>
     <Filter Include="10.CountNumberOf1">
       <UniqueIdentifier>{36d9ab80-f5ac-4df0-b747-2588b23e282c}</UniqueIdentifier>
     </Filter>
@@ -71,6 +74,9 @@
     </ClCompile>
     <ClCompile Include="CountNumberOf1.cpp">
       <Filter>10.CountNumberOf1</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublePower.cpp">
+      <Filter>11.DoublePower</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
