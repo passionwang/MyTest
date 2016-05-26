@@ -46,6 +46,12 @@
     <Filter Include="15.TheKNode">
       <UniqueIdentifier>{55093883-35d4-4470-a2e1-57e2f90d37d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="16.ReverseList">
+      <UniqueIdentifier>{e32ec57a-4661-40c2-8ce2-def6a2779a98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header">
+      <UniqueIdentifier>{b22901c4-0aa0-4282-9c72-fc8b5d481f70}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -105,10 +111,16 @@
     <ClCompile Include="TheKNode.cpp">
       <Filter>15.TheKNode</Filter>
     </ClCompile>
+    <ClCompile Include="ReverseList.cpp">
+      <Filter>16.ReverseList</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">
       <Filter>2.SingleTon</Filter>
+    </ClInclude>
+    <ClInclude Include="ListNode.h">
+      <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
