@@ -76,6 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AdjustSort.cpp" />
     <ClCompile Include="again.cpp" />
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
     <ClCompile Include="BinaryTreeNode.cpp" />

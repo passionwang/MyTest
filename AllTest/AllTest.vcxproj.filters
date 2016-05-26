@@ -40,6 +40,9 @@
     <Filter Include="13.DeleteNodeO1">
       <UniqueIdentifier>{d7de0dda-af00-45a8-8792-0d248ce743c8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="14.AdjustSort">
+      <UniqueIdentifier>{db267775-1ca3-4d35-9fa2-721461178807}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="DeleteNodeO1.cpp">
       <Filter>13.DeleteNodeO1</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjustSort.cpp">
+      <Filter>14.AdjustSort</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
