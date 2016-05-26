@@ -52,6 +52,9 @@
     <Filter Include="Header">
       <UniqueIdentifier>{b22901c4-0aa0-4282-9c72-fc8b5d481f70}</UniqueIdentifier>
     </Filter>
+    <Filter Include="17.MergeList">
+      <UniqueIdentifier>{0fd6d8de-1152-4c54-9a86-21622ad0e951}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -113,6 +116,9 @@
     </ClCompile>
     <ClCompile Include="ReverseList.cpp">
       <Filter>16.ReverseList</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeTwoList.cpp">
+      <Filter>17.MergeList</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

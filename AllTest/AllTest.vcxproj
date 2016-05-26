@@ -86,6 +86,7 @@
     <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
+    <ClCompile Include="MergeTwoList.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="PrintListFromTail.cpp" />
     <ClCompile Include="PrintNnumber.cpp" />
