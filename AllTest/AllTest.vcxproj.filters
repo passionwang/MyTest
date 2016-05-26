@@ -34,6 +34,9 @@
     <Filter Include="10.CountNumberOf1">
       <UniqueIdentifier>{36d9ab80-f5ac-4df0-b747-2588b23e282c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="12.PrintNNumber">
+      <UniqueIdentifier>{2ceab9da-0952-4e72-887a-12461ef5eea3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -77,6 +80,12 @@
     </ClCompile>
     <ClCompile Include="DoublePower.cpp">
       <Filter>11.DoublePower</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintNnumber.cpp">
+      <Filter>12.PrintNNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="AnotherWayToPrintNumber.cpp">
+      <Filter>12.PrintNNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
