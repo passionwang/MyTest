@@ -43,6 +43,9 @@
     <Filter Include="14.AdjustSort">
       <UniqueIdentifier>{db267775-1ca3-4d35-9fa2-721461178807}</UniqueIdentifier>
     </Filter>
+    <Filter Include="15.TheKNode">
+      <UniqueIdentifier>{55093883-35d4-4470-a2e1-57e2f90d37d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -98,6 +101,9 @@
     </ClCompile>
     <ClCompile Include="AdjustSort.cpp">
       <Filter>14.AdjustSort</Filter>
+    </ClCompile>
+    <ClCompile Include="TheKNode.cpp">
+      <Filter>15.TheKNode</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

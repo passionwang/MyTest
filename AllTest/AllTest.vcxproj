@@ -93,6 +93,7 @@
     <ClCompile Include="ReBuildBinaryTreeAgain.cpp" />
     <ClCompile Include="SingleTon.cpp" />
     <ClCompile Include="SpaceToOther.cpp" />
+    <ClCompile Include="TheKNode.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
   </ItemGroup>
   <ItemGroup>
