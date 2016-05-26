@@ -80,6 +80,7 @@
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
     <ClCompile Include="BinaryTreeNode.cpp" />
     <ClCompile Include="CountNumberOf1.cpp" />
+    <ClCompile Include="DeleteNodeO1.cpp" />
     <ClCompile Include="DoublePower.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="FindMinFromArr.cpp" />

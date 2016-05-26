@@ -37,6 +37,9 @@
     <Filter Include="12.PrintNNumber">
       <UniqueIdentifier>{2ceab9da-0952-4e72-887a-12461ef5eea3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="13.DeleteNodeO1">
+      <UniqueIdentifier>{d7de0dda-af00-45a8-8792-0d248ce743c8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -86,6 +89,9 @@
     </ClCompile>
     <ClCompile Include="AnotherWayToPrintNumber.cpp">
       <Filter>12.PrintNNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteNodeO1.cpp">
+      <Filter>13.DeleteNodeO1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
