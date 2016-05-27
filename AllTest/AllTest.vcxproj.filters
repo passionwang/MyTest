@@ -61,6 +61,9 @@
     <Filter Include="19.MirrorBinaryTree">
       <UniqueIdentifier>{d800f0fa-202f-4bde-88bd-d314ec619fb0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="20.PrintMatrixClockWisely">
+      <UniqueIdentifier>{30070a41-6a10-4595-8fda-53d04ba2e34a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -137,6 +140,9 @@
     </ClCompile>
     <ClCompile Include="AgainMirrorTree.cpp">
       <Filter>19.MirrorBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintMatrixClock.cpp">
+      <Filter>20.PrintMatrixClockWisely</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
