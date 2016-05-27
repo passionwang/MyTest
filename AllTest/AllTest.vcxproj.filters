@@ -55,6 +55,9 @@
     <Filter Include="17.MergeList">
       <UniqueIdentifier>{0fd6d8de-1152-4c54-9a86-21622ad0e951}</UniqueIdentifier>
     </Filter>
+    <Filter Include="18.SonOfBianryTree">
+      <UniqueIdentifier>{bb769f76-e688-407d-8ec5-c04b4d24a6d0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -120,12 +123,21 @@
     <ClCompile Include="MergeTwoList.cpp">
       <Filter>17.MergeList</Filter>
     </ClCompile>
+    <ClCompile Include="SonOfBinaryTree.cpp">
+      <Filter>18.SonOfBianryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="againSonOfBinaryTreeNode.cpp">
+      <Filter>18.SonOfBianryTree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">
       <Filter>2.SingleTon</Filter>
     </ClInclude>
     <ClInclude Include="ListNode.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTreeNode.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>

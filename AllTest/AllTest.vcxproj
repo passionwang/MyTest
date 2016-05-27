@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="AdjustSort.cpp" />
     <ClCompile Include="again.cpp" />
+    <ClCompile Include="againSonOfBinaryTreeNode.cpp" />
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
     <ClCompile Include="BinaryTreeNode.cpp" />
     <ClCompile Include="CountNumberOf1.cpp" />
@@ -94,11 +95,13 @@
     <ClCompile Include="ReBuildBinaryTreeAgain.cpp" />
     <ClCompile Include="ReverseList.cpp" />
     <ClCompile Include="SingleTon.cpp" />
+    <ClCompile Include="SonOfBinaryTree.cpp" />
     <ClCompile Include="SpaceToOther.cpp" />
     <ClCompile Include="TheKNode.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTreeNode.h" />
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="Lock.h" />
   </ItemGroup>
