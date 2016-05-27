@@ -79,6 +79,9 @@
     <Filter Include="25.BinaryTreePath">
       <UniqueIdentifier>{79cd9d75-9104-43a6-9222-038694124c02}</UniqueIdentifier>
     </Filter>
+    <Filter Include="26.ComplexList">
+      <UniqueIdentifier>{68424b4b-4b2f-4c11-b025-d5e7b2ae7eb6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -177,6 +180,9 @@
     <ClCompile Include="againBinaryTreePath.cpp">
       <Filter>25.BinaryTreePath</Filter>
     </ClCompile>
+    <ClCompile Include="CopyComplexList.cpp">
+      <Filter>26.ComplexList</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">
@@ -189,6 +195,9 @@
       <Filter>Header</Filter>
     </ClInclude>
     <ClInclude Include="MinStack.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ComplexList.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>
