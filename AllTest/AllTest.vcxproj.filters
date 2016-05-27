@@ -82,6 +82,9 @@
     <Filter Include="26.ComplexList">
       <UniqueIdentifier>{68424b4b-4b2f-4c11-b025-d5e7b2ae7eb6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="27.BinaryTreeToList">
+      <UniqueIdentifier>{64a7eee9-0328-489e-bda0-2b4831dd3204}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -182,6 +185,12 @@
     </ClCompile>
     <ClCompile Include="CopyComplexList.cpp">
       <Filter>26.ComplexList</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeToList.cpp">
+      <Filter>27.BinaryTreeToList</Filter>
+    </ClCompile>
+    <ClCompile Include="againBinaryTreeToList.cpp">
+      <Filter>27.BinaryTreeToList</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

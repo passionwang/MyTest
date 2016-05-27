@@ -79,11 +79,13 @@
     <ClCompile Include="AdjustSort.cpp" />
     <ClCompile Include="again.cpp" />
     <ClCompile Include="againBinaryTreePath.cpp" />
+    <ClCompile Include="againBinaryTreeToList.cpp" />
     <ClCompile Include="AgainMirrorTree.cpp" />
     <ClCompile Include="againSonOfBinaryTreeNode.cpp" />
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
     <ClCompile Include="BinaryTreeNode.cpp" />
     <ClCompile Include="BinaryTreeNodePath.cpp" />
+    <ClCompile Include="BinaryTreeToList.cpp" />
     <ClCompile Include="CopyComplexList.cpp" />
     <ClCompile Include="CountNumberOf1.cpp" />
     <ClCompile Include="DeleteNodeO1.cpp" />
