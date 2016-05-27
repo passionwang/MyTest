@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="AdjustSort.cpp" />
     <ClCompile Include="again.cpp" />
+    <ClCompile Include="AgainMirrorTree.cpp" />
     <ClCompile Include="againSonOfBinaryTreeNode.cpp" />
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
     <ClCompile Include="BinaryTreeNode.cpp" />
@@ -88,6 +89,7 @@
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />
+    <ClCompile Include="MirrorBinaryTree.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="PrintListFromTail.cpp" />
     <ClCompile Include="PrintNnumber.cpp" />

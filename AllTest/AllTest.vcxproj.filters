@@ -58,6 +58,9 @@
     <Filter Include="18.SonOfBianryTree">
       <UniqueIdentifier>{bb769f76-e688-407d-8ec5-c04b4d24a6d0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="19.MirrorBinaryTree">
+      <UniqueIdentifier>{d800f0fa-202f-4bde-88bd-d314ec619fb0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -128,6 +131,12 @@
     </ClCompile>
     <ClCompile Include="againSonOfBinaryTreeNode.cpp">
       <Filter>18.SonOfBianryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MirrorBinaryTree.cpp">
+      <Filter>19.MirrorBinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="AgainMirrorTree.cpp">
+      <Filter>19.MirrorBinaryTree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
