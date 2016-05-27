@@ -76,6 +76,9 @@
     <Filter Include="24.VerifyTheSort">
       <UniqueIdentifier>{ee923cee-5624-4495-8768-807479c87f0e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="25.BinaryTreePath">
+      <UniqueIdentifier>{79cd9d75-9104-43a6-9222-038694124c02}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -167,6 +170,12 @@
     </ClCompile>
     <ClCompile Include="VerifyTheSort.cpp">
       <Filter>24.VerifyTheSort</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTreeNodePath.cpp">
+      <Filter>25.BinaryTreePath</Filter>
+    </ClCompile>
+    <ClCompile Include="againBinaryTreePath.cpp">
+      <Filter>25.BinaryTreePath</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
