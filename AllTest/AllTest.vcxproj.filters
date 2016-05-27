@@ -73,6 +73,9 @@
     <Filter Include="23.PrintBinaryTreeFloat">
       <UniqueIdentifier>{f7ecaa88-9794-4ed8-abb8-b4848cbb46a0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="24.VerifyTheSort">
+      <UniqueIdentifier>{ee923cee-5624-4495-8768-807479c87f0e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -161,6 +164,9 @@
     </ClCompile>
     <ClCompile Include="PrintBinaryTreeFloat.cpp">
       <Filter>23.PrintBinaryTreeFloat</Filter>
+    </ClCompile>
+    <ClCompile Include="VerifyTheSort.cpp">
+      <Filter>24.VerifyTheSort</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

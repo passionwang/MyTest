@@ -105,6 +105,7 @@
     <ClCompile Include="StackToMin.cpp" />
     <ClCompile Include="TheKNode.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
+    <ClCompile Include="VerifyTheSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BinaryTreeNode.h" />
