@@ -94,6 +94,7 @@
     <ClCompile Include="PrintListFromTail.cpp" />
     <ClCompile Include="PrintMatrixClock.cpp" />
     <ClCompile Include="PrintNnumber.cpp" />
+    <ClCompile Include="PushAndPop.cpp" />
     <ClCompile Include="ReBuildBinaryTree.cpp" />
     <ClCompile Include="ReBuildBinaryTreeAgain.cpp" />
     <ClCompile Include="ReverseList.cpp" />

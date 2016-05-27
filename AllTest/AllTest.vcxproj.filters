@@ -67,6 +67,9 @@
     <Filter Include="21.StackToMin">
       <UniqueIdentifier>{91edb56e-9100-4e46-a2f7-49e67d441fb0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="22.PushAndPop">
+      <UniqueIdentifier>{17a036d0-a7f6-42e8-b4d5-6eab85e38418}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -149,6 +152,9 @@
     </ClCompile>
     <ClCompile Include="StackToMin.cpp">
       <Filter>21.StackToMin</Filter>
+    </ClCompile>
+    <ClCompile Include="PushAndPop.cpp">
+      <Filter>22.PushAndPop</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
