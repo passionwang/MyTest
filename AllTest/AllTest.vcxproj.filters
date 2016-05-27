@@ -64,6 +64,9 @@
     <Filter Include="20.PrintMatrixClockWisely">
       <UniqueIdentifier>{30070a41-6a10-4595-8fda-53d04ba2e34a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="21.StackToMin">
+      <UniqueIdentifier>{91edb56e-9100-4e46-a2f7-49e67d441fb0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -144,6 +147,9 @@
     <ClCompile Include="PrintMatrixClock.cpp">
       <Filter>20.PrintMatrixClockWisely</Filter>
     </ClCompile>
+    <ClCompile Include="StackToMin.cpp">
+      <Filter>21.StackToMin</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">
@@ -153,6 +159,9 @@
       <Filter>Header</Filter>
     </ClInclude>
     <ClInclude Include="BinaryTreeNode.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="MinStack.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>

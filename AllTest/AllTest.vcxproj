@@ -100,6 +100,7 @@
     <ClCompile Include="SingleTon.cpp" />
     <ClCompile Include="SonOfBinaryTree.cpp" />
     <ClCompile Include="SpaceToOther.cpp" />
+    <ClCompile Include="StackToMin.cpp" />
     <ClCompile Include="TheKNode.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
   </ItemGroup>
@@ -107,6 +108,7 @@
     <ClInclude Include="BinaryTreeNode.h" />
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="Lock.h" />
+    <ClInclude Include="MinStack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
