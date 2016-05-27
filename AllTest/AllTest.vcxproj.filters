@@ -70,6 +70,9 @@
     <Filter Include="22.PushAndPop">
       <UniqueIdentifier>{17a036d0-a7f6-42e8-b4d5-6eab85e38418}</UniqueIdentifier>
     </Filter>
+    <Filter Include="23.PrintBinaryTreeFloat">
+      <UniqueIdentifier>{f7ecaa88-9794-4ed8-abb8-b4848cbb46a0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -155,6 +158,9 @@
     </ClCompile>
     <ClCompile Include="PushAndPop.cpp">
       <Filter>22.PushAndPop</Filter>
+    </ClCompile>
+    <ClCompile Include="PrintBinaryTreeFloat.cpp">
+      <Filter>23.PrintBinaryTreeFloat</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

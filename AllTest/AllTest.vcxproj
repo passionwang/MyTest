@@ -91,6 +91,7 @@
     <ClCompile Include="MergeTwoList.cpp" />
     <ClCompile Include="MirrorBinaryTree.cpp" />
     <ClCompile Include="MyString.cpp" />
+    <ClCompile Include="PrintBinaryTreeFloat.cpp" />
     <ClCompile Include="PrintListFromTail.cpp" />
     <ClCompile Include="PrintMatrixClock.cpp" />
     <ClCompile Include="PrintNnumber.cpp" />
