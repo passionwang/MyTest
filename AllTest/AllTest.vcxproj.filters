@@ -88,6 +88,9 @@
     <Filter Include="28.StringPermutation">
       <UniqueIdentifier>{ab5189e8-499e-427c-9326-9a247e7d5907}</UniqueIdentifier>
     </Filter>
+    <Filter Include="29.MoreThanHalfNumber">
+      <UniqueIdentifier>{6f68b998-1d1c-40f0-856f-93698ae23c86}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -204,6 +207,12 @@
     <ClCompile Include="AgainStringPermutation.cpp">
       <Filter>28.StringPermutation</Filter>
     </ClCompile>
+    <ClCompile Include="MoreThanHalfNumber.cpp">
+      <Filter>29.MoreThanHalfNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="againMoreThanHalfNumber.cpp">
+      <Filter>29.MoreThanHalfNumber</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">
@@ -219,6 +228,9 @@
       <Filter>Header</Filter>
     </ClInclude>
     <ClInclude Include="ComplexList.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="array.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>

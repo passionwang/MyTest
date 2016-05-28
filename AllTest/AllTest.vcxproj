@@ -82,6 +82,7 @@
     <ClCompile Include="againBinaryTreePath.cpp" />
     <ClCompile Include="againBinaryTreeToList.cpp" />
     <ClCompile Include="AgainMirrorTree.cpp" />
+    <ClCompile Include="againMoreThanHalfNumber.cpp" />
     <ClCompile Include="againSonOfBinaryTreeNode.cpp" />
     <ClCompile Include="AgainStringPermutation.cpp" />
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
@@ -97,6 +98,7 @@
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />
     <ClCompile Include="MirrorBinaryTree.cpp" />
+    <ClCompile Include="MoreThanHalfNumber.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="PrintBinaryTreeFloat.cpp" />
     <ClCompile Include="PrintListFromTail.cpp" />
@@ -116,6 +118,7 @@
     <ClCompile Include="VerifyTheSort.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="array.h" />
     <ClInclude Include="BinaryTreeNode.h" />
     <ClInclude Include="ComplexList.h" />
     <ClInclude Include="ListNode.h" />
