@@ -94,6 +94,9 @@
     <Filter Include="30.GetLeastNumbers">
       <UniqueIdentifier>{06548f22-ebae-4b43-b079-1db2be1aabba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="31.MaxSumOfArraySon">
+      <UniqueIdentifier>{897dedf4-2afd-4e6c-905d-a15ab6ec3073}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -218,6 +221,9 @@
     </ClCompile>
     <ClCompile Include="GetLeastNumbers.cpp">
       <Filter>30.GetLeastNumbers</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxSumOfArraySon.cpp">
+      <Filter>31.MaxSumOfArraySon</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

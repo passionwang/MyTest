@@ -97,6 +97,7 @@
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="GetLeastNumbers.cpp" />
+    <ClCompile Include="MaxSumOfArraySon.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />
     <ClCompile Include="MirrorBinaryTree.cpp" />
     <ClCompile Include="MoreThanHalfNumber.cpp" />
