@@ -103,6 +103,9 @@
     <Filter Include="33.SortArrayMinNumber">
       <UniqueIdentifier>{9484277c-d569-4ed8-a552-067bd0ed30e1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="34.UglyNumber">
+      <UniqueIdentifier>{0b67f921-1e80-4f67-85e5-f98a23d40bc5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -239,6 +242,9 @@
     </ClCompile>
     <ClCompile Include="SortArrayMinNumber.cpp">
       <Filter>33.SortArrayMinNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="UglyNumber.cpp">
+      <Filter>34.UglyNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -120,6 +120,7 @@
     <ClCompile Include="StringPermutation.cpp" />
     <ClCompile Include="TheKNode.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
+    <ClCompile Include="UglyNumber.cpp" />
     <ClCompile Include="VerifyTheSort.cpp" />
   </ItemGroup>
   <ItemGroup>
