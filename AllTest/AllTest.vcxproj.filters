@@ -91,6 +91,9 @@
     <Filter Include="29.MoreThanHalfNumber">
       <UniqueIdentifier>{6f68b998-1d1c-40f0-856f-93698ae23c86}</UniqueIdentifier>
     </Filter>
+    <Filter Include="30.GetLeastNumbers">
+      <UniqueIdentifier>{06548f22-ebae-4b43-b079-1db2be1aabba}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -212,6 +215,9 @@
     </ClCompile>
     <ClCompile Include="againMoreThanHalfNumber.cpp">
       <Filter>29.MoreThanHalfNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="GetLeastNumbers.cpp">
+      <Filter>30.GetLeastNumbers</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
