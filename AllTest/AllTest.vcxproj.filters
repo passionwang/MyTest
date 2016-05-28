@@ -97,6 +97,9 @@
     <Filter Include="31.MaxSumOfArraySon">
       <UniqueIdentifier>{897dedf4-2afd-4e6c-905d-a15ab6ec3073}</UniqueIdentifier>
     </Filter>
+    <Filter Include="32.NumberOf1">
+      <UniqueIdentifier>{97f356c0-b5cc-4071-8fdc-39b51658a9e1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -224,6 +227,12 @@
     </ClCompile>
     <ClCompile Include="MaxSumOfArraySon.cpp">
       <Filter>31.MaxSumOfArraySon</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberOf1.cpp">
+      <Filter>32.NumberOf1</Filter>
+    </ClCompile>
+    <ClCompile Include="againNumberOf1.cpp">
+      <Filter>32.NumberOf1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
