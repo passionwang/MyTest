@@ -85,6 +85,9 @@
     <Filter Include="27.BinaryTreeToList">
       <UniqueIdentifier>{64a7eee9-0328-489e-bda0-2b4831dd3204}</UniqueIdentifier>
     </Filter>
+    <Filter Include="28.StringPermutation">
+      <UniqueIdentifier>{ab5189e8-499e-427c-9326-9a247e7d5907}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -194,6 +197,12 @@
     </ClCompile>
     <ClCompile Include="againBinaryTreeNode.cpp">
       <Filter>27.BinaryTreeToList</Filter>
+    </ClCompile>
+    <ClCompile Include="StringPermutation.cpp">
+      <Filter>28.StringPermutation</Filter>
+    </ClCompile>
+    <ClCompile Include="AgainStringPermutation.cpp">
+      <Filter>28.StringPermutation</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

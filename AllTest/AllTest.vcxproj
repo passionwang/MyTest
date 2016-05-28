@@ -83,6 +83,7 @@
     <ClCompile Include="againBinaryTreeToList.cpp" />
     <ClCompile Include="AgainMirrorTree.cpp" />
     <ClCompile Include="againSonOfBinaryTreeNode.cpp" />
+    <ClCompile Include="AgainStringPermutation.cpp" />
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
     <ClCompile Include="BinaryTreeNode.cpp" />
     <ClCompile Include="BinaryTreeNodePath.cpp" />
@@ -109,6 +110,7 @@
     <ClCompile Include="SonOfBinaryTree.cpp" />
     <ClCompile Include="SpaceToOther.cpp" />
     <ClCompile Include="StackToMin.cpp" />
+    <ClCompile Include="StringPermutation.cpp" />
     <ClCompile Include="TheKNode.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
     <ClCompile Include="VerifyTheSort.cpp" />
