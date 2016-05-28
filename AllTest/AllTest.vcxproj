@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="AdjustSort.cpp" />
     <ClCompile Include="again.cpp" />
+    <ClCompile Include="againBinaryTreeNode.cpp" />
     <ClCompile Include="againBinaryTreePath.cpp" />
     <ClCompile Include="againBinaryTreeToList.cpp" />
     <ClCompile Include="AgainMirrorTree.cpp" />

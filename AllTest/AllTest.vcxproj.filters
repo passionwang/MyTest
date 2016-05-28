@@ -192,6 +192,9 @@
     <ClCompile Include="againBinaryTreeToList.cpp">
       <Filter>27.BinaryTreeToList</Filter>
     </ClCompile>
+    <ClCompile Include="againBinaryTreeNode.cpp">
+      <Filter>27.BinaryTreeToList</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">

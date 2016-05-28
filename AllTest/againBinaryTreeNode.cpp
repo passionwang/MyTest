@@ -1,24 +1,25 @@
 //#include<iostream>
 //#include"BinaryTreeNode.h"
-//
 //using namespace std;
 //
-//void ConvertNode(BinaryTreeNode* pRoot,BinaryTreeNode** pLastNode)
+//void ConvertNode(BinaryTreeNode* pNode,BinaryTreeNode** pLastNode)
 //{
-//	if(NULL == pRoot) return ;
+//	if(NULL == pNode || NULL == pLastNode) return ;
 //
-//	BinaryTreeNode* pCurrent = pRoot;
+//	BinaryTreeNode* pCurrent = pNode;
 //
 //	if(NULL != pCurrent->m_pLeft)
 //		ConvertNode(pCurrent->m_pLeft,pLastNode);
 //
 //	pCurrent->m_pLeft = *pLastNode;
+//
 //	if(NULL != *pLastNode)
 //		(*pLastNode)->m_pRight = pCurrent;
-//	*pLastNode = pCurrent;
+//	(*pLastNode) = pCurrent;
 //
 //	if(NULL != pCurrent->m_pRight)
 //		ConvertNode(pCurrent->m_pRight,pLastNode);
+//
 //}
 //
 //BinaryTreeNode* Convert(BinaryTreeNode* pRoot)
@@ -26,11 +27,13 @@
 //	if(NULL == pRoot) return NULL;
 //
 //	BinaryTreeNode* pLastNode = NULL;
+//
 //	ConvertNode(pRoot,&pLastNode);
+//
 //	while(NULL != pLastNode->m_pLeft)
 //		pLastNode = pLastNode->m_pLeft;
-//	return pLastNode;
 //
+//	return pLastNode;
 //}
 //// ====================²âÊÔ´úÂë====================
 //void PrintDoubleLinkedList(BinaryTreeNode* pHeadOfList)
@@ -192,6 +195,7 @@
 ////{
 ////
 ////
-////	system("pause");
+////
 ////	return 0;
 ////}
+//
