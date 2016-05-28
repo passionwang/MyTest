@@ -114,6 +114,7 @@
     <ClCompile Include="ReverseList.cpp" />
     <ClCompile Include="SingleTon.cpp" />
     <ClCompile Include="SonOfBinaryTree.cpp" />
+    <ClCompile Include="SortArrayMinNumber.cpp" />
     <ClCompile Include="SpaceToOther.cpp" />
     <ClCompile Include="StackToMin.cpp" />
     <ClCompile Include="StringPermutation.cpp" />

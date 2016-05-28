@@ -100,6 +100,9 @@
     <Filter Include="32.NumberOf1">
       <UniqueIdentifier>{97f356c0-b5cc-4071-8fdc-39b51658a9e1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="33.SortArrayMinNumber">
+      <UniqueIdentifier>{9484277c-d569-4ed8-a552-067bd0ed30e1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -233,6 +236,9 @@
     </ClCompile>
     <ClCompile Include="againNumberOf1.cpp">
       <Filter>32.NumberOf1</Filter>
+    </ClCompile>
+    <ClCompile Include="SortArrayMinNumber.cpp">
+      <Filter>33.SortArrayMinNumber</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
