@@ -78,9 +78,11 @@
   <ItemGroup>
     <ClCompile Include="AdjustSort.cpp" />
     <ClCompile Include="again.cpp" />
+    <ClCompile Include="againAgainInverseParis.cpp" />
     <ClCompile Include="againBinaryTreeNode.cpp" />
     <ClCompile Include="againBinaryTreePath.cpp" />
     <ClCompile Include="againBinaryTreeToList.cpp" />
+    <ClCompile Include="againInverseParis.cpp" />
     <ClCompile Include="AgainMirrorTree.cpp" />
     <ClCompile Include="againMoreThanHalfNumber.cpp" />
     <ClCompile Include="againNumberOf1.cpp" />
@@ -99,6 +101,7 @@
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="FirstNotRepeatChar.cpp" />
     <ClCompile Include="GetLeastNumbers.cpp" />
+    <ClCompile Include="InverseParis.cpp" />
     <ClCompile Include="MaxSumOfArraySon.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />
     <ClCompile Include="MirrorBinaryTree.cpp" />

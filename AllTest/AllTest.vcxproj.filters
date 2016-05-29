@@ -109,6 +109,9 @@
     <Filter Include="35.FirstNotRepeatChar">
       <UniqueIdentifier>{6fbc1194-aa44-4916-86c4-0642542a4866}</UniqueIdentifier>
     </Filter>
+    <Filter Include="36.InverseParis">
+      <UniqueIdentifier>{1096ac4a-d6b8-43d6-aeca-a9277e5220ea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -251,6 +254,15 @@
     </ClCompile>
     <ClCompile Include="FirstNotRepeatChar.cpp">
       <Filter>35.FirstNotRepeatChar</Filter>
+    </ClCompile>
+    <ClCompile Include="InverseParis.cpp">
+      <Filter>36.InverseParis</Filter>
+    </ClCompile>
+    <ClCompile Include="againInverseParis.cpp">
+      <Filter>36.InverseParis</Filter>
+    </ClCompile>
+    <ClCompile Include="againAgainInverseParis.cpp">
+      <Filter>36.InverseParis</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
