@@ -97,6 +97,7 @@
     <ClCompile Include="DeleteNodeO1.cpp" />
     <ClCompile Include="DoublePower.cpp" />
     <ClCompile Include="Fibonacci.cpp" />
+    <ClCompile Include="FindFirstCommandNode.cpp" />
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="FirstNotRepeatChar.cpp" />

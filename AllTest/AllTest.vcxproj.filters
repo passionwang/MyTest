@@ -112,6 +112,9 @@
     <Filter Include="36.InverseParis">
       <UniqueIdentifier>{1096ac4a-d6b8-43d6-aeca-a9277e5220ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="37.FindFirstCommandNode">
+      <UniqueIdentifier>{a4e56035-875f-4ff4-a207-6b10459cd6a2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -263,6 +266,9 @@
     </ClCompile>
     <ClCompile Include="againAgainInverseParis.cpp">
       <Filter>36.InverseParis</Filter>
+    </ClCompile>
+    <ClCompile Include="FindFirstCommandNode.cpp">
+      <Filter>37.FindFirstCommandNode</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
