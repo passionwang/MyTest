@@ -115,6 +115,9 @@
     <Filter Include="37.FindFirstCommandNode">
       <UniqueIdentifier>{a4e56035-875f-4ff4-a207-6b10459cd6a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="38.GetCountOfK">
+      <UniqueIdentifier>{6d5c2b78-159e-48f9-a4ef-72ee07dd671c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -269,6 +272,9 @@
     </ClCompile>
     <ClCompile Include="FindFirstCommandNode.cpp">
       <Filter>37.FindFirstCommandNode</Filter>
+    </ClCompile>
+    <ClCompile Include="GetCountOfK.cpp">
+      <Filter>38.GetCountOfK</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

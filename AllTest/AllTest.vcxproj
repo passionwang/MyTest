@@ -101,6 +101,7 @@
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
     <ClCompile Include="FirstNotRepeatChar.cpp" />
+    <ClCompile Include="GetCountOfK.cpp" />
     <ClCompile Include="GetLeastNumbers.cpp" />
     <ClCompile Include="InverseParis.cpp" />
     <ClCompile Include="MaxSumOfArraySon.cpp" />
