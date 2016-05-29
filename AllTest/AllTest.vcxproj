@@ -97,6 +97,7 @@
     <ClCompile Include="Fibonacci.cpp" />
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
+    <ClCompile Include="FirstNotRepeatChar.cpp" />
     <ClCompile Include="GetLeastNumbers.cpp" />
     <ClCompile Include="MaxSumOfArraySon.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />

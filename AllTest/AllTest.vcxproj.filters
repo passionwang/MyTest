@@ -106,6 +106,9 @@
     <Filter Include="34.UglyNumber">
       <UniqueIdentifier>{0b67f921-1e80-4f67-85e5-f98a23d40bc5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="35.FirstNotRepeatChar">
+      <UniqueIdentifier>{6fbc1194-aa44-4916-86c4-0642542a4866}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -245,6 +248,9 @@
     </ClCompile>
     <ClCompile Include="UglyNumber.cpp">
       <Filter>34.UglyNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstNotRepeatChar.cpp">
+      <Filter>35.FirstNotRepeatChar</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
