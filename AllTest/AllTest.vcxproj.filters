@@ -118,6 +118,9 @@
     <Filter Include="38.GetCountOfK">
       <UniqueIdentifier>{6d5c2b78-159e-48f9-a4ef-72ee07dd671c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="39.TreeDepth">
+      <UniqueIdentifier>{08adfe91-e812-49a2-9bac-a96b016d7efc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -275,6 +278,9 @@
     </ClCompile>
     <ClCompile Include="GetCountOfK.cpp">
       <Filter>38.GetCountOfK</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeDepth.cpp">
+      <Filter>39.TreeDepth</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
