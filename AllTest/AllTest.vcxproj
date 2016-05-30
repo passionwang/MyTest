@@ -101,6 +101,7 @@
     <ClCompile Include="FindFirstCommandNode.cpp" />
     <ClCompile Include="FindMinFromArr.cpp" />
     <ClCompile Include="FindNumber.cpp" />
+    <ClCompile Include="FindNumsAppearOnce.cpp" />
     <ClCompile Include="FirstNotRepeatChar.cpp" />
     <ClCompile Include="GetCountOfK.cpp" />
     <ClCompile Include="GetLeastNumbers.cpp" />

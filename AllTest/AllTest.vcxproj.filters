@@ -124,6 +124,9 @@
     <Filter Include="39-2.IsBalanceTree">
       <UniqueIdentifier>{c7686427-8f4d-4352-a6ee-8ebada74694e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="40.FindNumsAppearOnce">
+      <UniqueIdentifier>{ba46246c-c664-493f-8576-a005967c6e69}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -290,6 +293,9 @@
     </ClCompile>
     <ClCompile Include="AgainIsBalance.cpp">
       <Filter>39-2.IsBalanceTree</Filter>
+    </ClCompile>
+    <ClCompile Include="FindNumsAppearOnce.cpp">
+      <Filter>40.FindNumsAppearOnce</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
