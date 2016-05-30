@@ -121,6 +121,9 @@
     <Filter Include="39.TreeDepth">
       <UniqueIdentifier>{08adfe91-e812-49a2-9bac-a96b016d7efc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="39-2.IsBalanceTree">
+      <UniqueIdentifier>{c7686427-8f4d-4352-a6ee-8ebada74694e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -281,6 +284,12 @@
     </ClCompile>
     <ClCompile Include="TreeDepth.cpp">
       <Filter>39.TreeDepth</Filter>
+    </ClCompile>
+    <ClCompile Include="IsBalanceTree.cpp">
+      <Filter>39-2.IsBalanceTree</Filter>
+    </ClCompile>
+    <ClCompile Include="AgainIsBalance.cpp">
+      <Filter>39-2.IsBalanceTree</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

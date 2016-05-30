@@ -83,6 +83,7 @@
     <ClCompile Include="againBinaryTreePath.cpp" />
     <ClCompile Include="againBinaryTreeToList.cpp" />
     <ClCompile Include="againInverseParis.cpp" />
+    <ClCompile Include="AgainIsBalance.cpp" />
     <ClCompile Include="AgainMirrorTree.cpp" />
     <ClCompile Include="againMoreThanHalfNumber.cpp" />
     <ClCompile Include="againNumberOf1.cpp" />
@@ -104,6 +105,7 @@
     <ClCompile Include="GetCountOfK.cpp" />
     <ClCompile Include="GetLeastNumbers.cpp" />
     <ClCompile Include="InverseParis.cpp" />
+    <ClCompile Include="IsBalanceTree.cpp" />
     <ClCompile Include="MaxSumOfArraySon.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />
     <ClCompile Include="MirrorBinaryTree.cpp" />
