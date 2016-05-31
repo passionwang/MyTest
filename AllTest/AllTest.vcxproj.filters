@@ -130,6 +130,9 @@
     <Filter Include="41.FindNumbersWithSum">
       <UniqueIdentifier>{b268ac48-7863-49dc-95df-1e5a66a46a7e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="41-2.FindContinueSequence">
+      <UniqueIdentifier>{643d9f94-612b-4811-9dea-6a05c7e053c5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -302,6 +305,9 @@
     </ClCompile>
     <ClCompile Include="FindNumbersWithSum.cpp">
       <Filter>41.FindNumbersWithSum</Filter>
+    </ClCompile>
+    <ClCompile Include="FindContinueSequence.cpp">
+      <Filter>41-2.FindContinueSequence</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
