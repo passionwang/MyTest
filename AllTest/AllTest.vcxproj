@@ -123,6 +123,7 @@
     <ClCompile Include="ReBuildBinaryTree.cpp" />
     <ClCompile Include="ReBuildBinaryTreeAgain.cpp" />
     <ClCompile Include="ReverseList.cpp" />
+    <ClCompile Include="ReverseSentense.cpp" />
     <ClCompile Include="SingleTon.cpp" />
     <ClCompile Include="SonOfBinaryTree.cpp" />
     <ClCompile Include="SortArrayMinNumber.cpp" />

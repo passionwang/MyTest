@@ -133,6 +133,9 @@
     <Filter Include="41-2.FindContinueSequence">
       <UniqueIdentifier>{643d9f94-612b-4811-9dea-6a05c7e053c5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="42.ReverseSetense">
+      <UniqueIdentifier>{4846439f-c084-4d54-9f86-ba07da9fa720}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -308,6 +311,9 @@
     </ClCompile>
     <ClCompile Include="FindContinueSequence.cpp">
       <Filter>41-2.FindContinueSequence</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseSentense.cpp">
+      <Filter>42.ReverseSetense</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
