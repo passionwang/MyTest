@@ -127,6 +127,9 @@
     <Filter Include="40.FindNumsAppearOnce">
       <UniqueIdentifier>{ba46246c-c664-493f-8576-a005967c6e69}</UniqueIdentifier>
     </Filter>
+    <Filter Include="41.FindNumbersWithSum">
+      <UniqueIdentifier>{b268ac48-7863-49dc-95df-1e5a66a46a7e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -296,6 +299,9 @@
     </ClCompile>
     <ClCompile Include="FindNumsAppearOnce.cpp">
       <Filter>40.FindNumsAppearOnce</Filter>
+    </ClCompile>
+    <ClCompile Include="FindNumbersWithSum.cpp">
+      <Filter>41.FindNumbersWithSum</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
