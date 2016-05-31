@@ -136,6 +136,9 @@
     <Filter Include="42.ReverseSetense">
       <UniqueIdentifier>{4846439f-c084-4d54-9f86-ba07da9fa720}</UniqueIdentifier>
     </Filter>
+    <Filter Include="42-2.LeftReverse">
+      <UniqueIdentifier>{b04ef2b3-9070-432a-b4cc-1f9bfeff9b49}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -314,6 +317,9 @@
     </ClCompile>
     <ClCompile Include="ReverseSentense.cpp">
       <Filter>42.ReverseSetense</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftReverse.cpp">
+      <Filter>42-2.LeftReverse</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
