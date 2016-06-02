@@ -151,6 +151,9 @@
     <Filter Include="46.GetSum">
       <UniqueIdentifier>{34cd4638-3261-4661-90ec-22138020fc29}</UniqueIdentifier>
     </Filter>
+    <Filter Include="47.Add">
+      <UniqueIdentifier>{6580299e-f51e-44b7-9d94-66094d433303}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -350,6 +353,12 @@
     </ClCompile>
     <ClCompile Include="GetSum.cpp">
       <Filter>46.GetSum</Filter>
+    </ClCompile>
+    <ClCompile Include="Add.cpp">
+      <Filter>47.Add</Filter>
+    </ClCompile>
+    <ClCompile Include="AgainAdd.cpp">
+      <Filter>47.Add</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
