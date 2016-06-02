@@ -111,6 +111,7 @@
     <ClCompile Include="GetLeastNumbers.cpp" />
     <ClCompile Include="InverseParis.cpp" />
     <ClCompile Include="IsBalanceTree.cpp" />
+    <ClCompile Include="JudgeContinuous.cpp" />
     <ClCompile Include="LeftReverse.cpp" />
     <ClCompile Include="MaxSumOfArraySon.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />

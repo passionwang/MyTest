@@ -142,6 +142,9 @@
     <Filter Include="43.Probability">
       <UniqueIdentifier>{c624e9ae-27ff-411c-bf94-5666b4ff15fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="44.JudgeContinuous">
+      <UniqueIdentifier>{106a44ea-2eeb-411f-82c6-2811e5ab86a9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -332,6 +335,9 @@
     </ClCompile>
     <ClCompile Include="AgainAgainProbability.cpp">
       <Filter>43.Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="JudgeContinuous.cpp">
+      <Filter>44.JudgeContinuous</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
