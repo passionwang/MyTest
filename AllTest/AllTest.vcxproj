@@ -112,6 +112,7 @@
     <ClCompile Include="InverseParis.cpp" />
     <ClCompile Include="IsBalanceTree.cpp" />
     <ClCompile Include="JudgeContinuous.cpp" />
+    <ClCompile Include="LastRemain.cpp" />
     <ClCompile Include="LeftReverse.cpp" />
     <ClCompile Include="MaxSumOfArraySon.cpp" />
     <ClCompile Include="MergeTwoList.cpp" />

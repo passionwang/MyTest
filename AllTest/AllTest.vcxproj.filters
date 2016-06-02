@@ -145,6 +145,9 @@
     <Filter Include="44.JudgeContinuous">
       <UniqueIdentifier>{106a44ea-2eeb-411f-82c6-2811e5ab86a9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="45.LastRemain">
+      <UniqueIdentifier>{b55c9e26-d9eb-4c5e-8a88-219c77999b89}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -338,6 +341,9 @@
     </ClCompile>
     <ClCompile Include="JudgeContinuous.cpp">
       <Filter>44.JudgeContinuous</Filter>
+    </ClCompile>
+    <ClCompile Include="LastRemain.cpp">
+      <Filter>45.LastRemain</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
