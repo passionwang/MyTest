@@ -79,6 +79,7 @@
     <ClCompile Include="AdjustSort.cpp" />
     <ClCompile Include="again.cpp" />
     <ClCompile Include="againAgainInverseParis.cpp" />
+    <ClCompile Include="AgainAgainProbability.cpp" />
     <ClCompile Include="againBinaryTreeNode.cpp" />
     <ClCompile Include="againBinaryTreePath.cpp" />
     <ClCompile Include="againBinaryTreeToList.cpp" />
@@ -87,6 +88,7 @@
     <ClCompile Include="AgainMirrorTree.cpp" />
     <ClCompile Include="againMoreThanHalfNumber.cpp" />
     <ClCompile Include="againNumberOf1.cpp" />
+    <ClCompile Include="againProbability.cpp" />
     <ClCompile Include="againSonOfBinaryTreeNode.cpp" />
     <ClCompile Include="AgainStringPermutation.cpp" />
     <ClCompile Include="AnotherWayToPrintNumber.cpp" />
@@ -120,6 +122,7 @@
     <ClCompile Include="PrintListFromTail.cpp" />
     <ClCompile Include="PrintMatrixClock.cpp" />
     <ClCompile Include="PrintNnumber.cpp" />
+    <ClCompile Include="Probability.cpp" />
     <ClCompile Include="PushAndPop.cpp" />
     <ClCompile Include="ReBuildBinaryTree.cpp" />
     <ClCompile Include="ReBuildBinaryTreeAgain.cpp" />

@@ -139,6 +139,9 @@
     <Filter Include="42-2.LeftReverse">
       <UniqueIdentifier>{b04ef2b3-9070-432a-b4cc-1f9bfeff9b49}</UniqueIdentifier>
     </Filter>
+    <Filter Include="43.Probability">
+      <UniqueIdentifier>{c624e9ae-27ff-411c-bf94-5666b4ff15fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -320,6 +323,15 @@
     </ClCompile>
     <ClCompile Include="LeftReverse.cpp">
       <Filter>42-2.LeftReverse</Filter>
+    </ClCompile>
+    <ClCompile Include="Probability.cpp">
+      <Filter>43.Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="againProbability.cpp">
+      <Filter>43.Probability</Filter>
+    </ClCompile>
+    <ClCompile Include="AgainAgainProbability.cpp">
+      <Filter>43.Probability</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
