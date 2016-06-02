@@ -109,6 +109,7 @@
     <ClCompile Include="FirstNotRepeatChar.cpp" />
     <ClCompile Include="GetCountOfK.cpp" />
     <ClCompile Include="GetLeastNumbers.cpp" />
+    <ClCompile Include="GetSum.cpp" />
     <ClCompile Include="InverseParis.cpp" />
     <ClCompile Include="IsBalanceTree.cpp" />
     <ClCompile Include="JudgeContinuous.cpp" />
