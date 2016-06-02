@@ -157,6 +157,9 @@
     <Filter Include="48.Sealed">
       <UniqueIdentifier>{20ca622d-dffe-4a3c-aecb-cd8c1efe676b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="49.StrToInt">
+      <UniqueIdentifier>{c9aec207-cd3f-45c5-a2ce-9bc02078dc47}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -365,6 +368,9 @@
     </ClCompile>
     <ClCompile Include="Sealed.cpp">
       <Filter>48.Sealed</Filter>
+    </ClCompile>
+    <ClCompile Include="StrToInt.cpp">
+      <Filter>49.StrToInt</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

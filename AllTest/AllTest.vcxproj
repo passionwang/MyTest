@@ -140,6 +140,7 @@
     <ClCompile Include="SpaceToOther.cpp" />
     <ClCompile Include="StackToMin.cpp" />
     <ClCompile Include="StringPermutation.cpp" />
+    <ClCompile Include="StrToInt.cpp" />
     <ClCompile Include="TheKNode.cpp" />
     <ClCompile Include="TreeDepth.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
