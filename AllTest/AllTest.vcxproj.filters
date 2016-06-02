@@ -154,6 +154,9 @@
     <Filter Include="47.Add">
       <UniqueIdentifier>{6580299e-f51e-44b7-9d94-66094d433303}</UniqueIdentifier>
     </Filter>
+    <Filter Include="48.Sealed">
+      <UniqueIdentifier>{20ca622d-dffe-4a3c-aecb-cd8c1efe676b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -359,6 +362,9 @@
     </ClCompile>
     <ClCompile Include="AgainAdd.cpp">
       <Filter>47.Add</Filter>
+    </ClCompile>
+    <ClCompile Include="Sealed.cpp">
+      <Filter>48.Sealed</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
