@@ -97,6 +97,7 @@
     <ClCompile Include="BinaryTreeNode.cpp" />
     <ClCompile Include="BinaryTreeNodePath.cpp" />
     <ClCompile Include="BinaryTreeToList.cpp" />
+    <ClCompile Include="CommandParentNode.cpp" />
     <ClCompile Include="CopyComplexList.cpp" />
     <ClCompile Include="CountNumberOf1.cpp" />
     <ClCompile Include="DeleteNodeO1.cpp" />
@@ -142,6 +143,7 @@
     <ClCompile Include="StringPermutation.cpp" />
     <ClCompile Include="StrToInt.cpp" />
     <ClCompile Include="TheKNode.cpp" />
+    <ClCompile Include="Tree.cpp" />
     <ClCompile Include="TreeDepth.cpp" />
     <ClCompile Include="TwoStackToQueue.cpp" />
     <ClCompile Include="UglyNumber.cpp" />
@@ -154,6 +156,7 @@
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="Lock.h" />
     <ClInclude Include="MinStack.h" />
+    <ClInclude Include="Tree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

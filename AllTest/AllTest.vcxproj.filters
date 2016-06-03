@@ -160,6 +160,9 @@
     <Filter Include="49.StrToInt">
       <UniqueIdentifier>{c9aec207-cd3f-45c5-a2ce-9bc02078dc47}</UniqueIdentifier>
     </Filter>
+    <Filter Include="50.CommandParentNode">
+      <UniqueIdentifier>{7ea54b19-fff0-4e10-9db3-13fc6caed94a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyString.cpp">
@@ -372,6 +375,12 @@
     <ClCompile Include="StrToInt.cpp">
       <Filter>49.StrToInt</Filter>
     </ClCompile>
+    <ClCompile Include="CommandParentNode.cpp">
+      <Filter>50.CommandParentNode</Filter>
+    </ClCompile>
+    <ClCompile Include="Tree.cpp">
+      <Filter>50.CommandParentNode</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lock.h">
@@ -390,6 +399,9 @@
       <Filter>Header</Filter>
     </ClInclude>
     <ClInclude Include="array.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>
